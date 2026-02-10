@@ -31,19 +31,13 @@
 이 프로젝트는 Google Colab 환경에서 실행하는 것을 권장합니다. 로컬 환경에서 실행할 경우 아래 라이브러리가 필요합니다.
 
 Required Libraries
-pandas
-
-numpy
-
-scikit-learn
-
-tqdm
-
-matplotlib, seaborn
-
-torch (LLM 모델 로딩용)
-
-transformers (또는 사용하는 LLM API 클라이언트)
+- pandas
+- numpy
+- scikit-learn
+- tqdm
+- matplotlib, seaborn
+- torch (LLM 모델 로딩용)
+- transformers (또는 사용하는 LLM API 클라이언트)
 
 🚀 How to Run
 [Google Colab (Recommended)]
